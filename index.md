@@ -1,4 +1,11 @@
-Raphael's pages
+Raphael's resource page
 ===
 
-this is a page3
+Notebooks
+---
+- [Machine Learning](/MachineLearning.md)
+
+Softwares
+---
+- [pysmt](/pysmt.md)
+- [JRNNLM](/jrnnlm.md)
