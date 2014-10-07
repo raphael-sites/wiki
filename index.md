@@ -13,9 +13,9 @@ Activities
 ---
 - WAT2014 (Workshop on Asian Translation)
 	- Weblio Pre-reordering Statistical Machine Translation System
-		- [paper](/wat2014/wat2014.paper.shu.pdf)
-		- [slides](/wat2014/wat2014.slides.shu.pdf)
-		- [poster](/wat2014/wat2014.poster.shu.pdf)
+		- [paper](/WAT2014/wat2014.paper.shu.pdf)
+		- [slides](/WAT2014/wat2014.slides.shu.pdf)
+		- [poster](/WAT2014/wat2014.poster.shu.pdf)
 
 Notebooks
 ---
