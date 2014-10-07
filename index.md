@@ -1,11 +1,6 @@
 Raphael's resource page
 ===
 
-Notebooks
----
-- [Machine Learning](/MachineLearning.md)
-
-
 Softwares
 ---
 - [pysmt](/pysmt.md)
@@ -13,3 +8,17 @@ Softwares
 
 - [JRNNLM](/jrnnlm.md)
   - RNNLM implementation in JAVA
+
+Activities
+---
+- WAT2014 (Workshop on Asian Translation)
+	- Weblio Pre-reordering Statistical Machine Translation System
+		- [paper](/wat2014/wat2014.paper.shu.pdf)
+		- [slides](/wat2014/wat2014.slides.shu.pdf)
+		- [poster](/wat2014/wat2014.poster.shu.pdf)
+
+Notebooks
+---
+- [Machine Learning](/MachineLearning.md)
+
+
