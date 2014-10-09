@@ -21,7 +21,7 @@ Notes
 ---
 - Machine Learning
 	- [Markov Decision process](/machine_learning/markov_decision_process.md)
-	- 
+	
 
 Online Demonstrations
 ---
