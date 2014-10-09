@@ -1,34 +1,20 @@
-Raphael's resource page
+Markov Decision Process (MDP)
 ===
 
-Softwares
+> Some parts of this page are from the slides of Stanford NLU Course.
+
+Definition
 ---
-- [pysmt](/pysmt.md)
-  - A statistical machine translation system on Python
+![](https://cloud.githubusercontent.com/assets/1029280/4573167/530c9348-4f8f-11e4-9b7a-003ab91985fb.png)
 
-- [JRNNLM](/jrnnlm.md)
-  - RNNLM implementation in JAVA
-
-Activities
----
-- WAT2014 (Workshop on Asian Translation)
-	- Weblio Pre-reordering Statistical Machine Translation System
-		- [paper](/WAT2014/wat2014.paper.shu.pdf)
-		- [slides](/WAT2014/wat2014.slides.shu.pdf)
-		- [poster](/WAT2014/wat2014.poster.shu.pdf)
-
-Notes
----
-- Machine Learning
-	- [Markov Decision process](/machine_learning/markov_decision_process.md)
-	
-
-Online Demonstrations
+Example
 ---
 
+![](https://cloud.githubusercontent.com/assets/1029280/4573183/950d2050-4f8f-11e4-8e47-a195d1459d5a.png)
 
-Notebooks
+------
+
+Optimization
 ---
-- [Machine Learning](/MachineLearning.md)
 
-
+![](https://cloud.githubusercontent.com/assets/1029280/4573220/120bd506-4f90-11e4-9f27-b9f00b6fc3dd.png)
