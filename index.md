@@ -17,6 +17,12 @@ Activities
 		- [slides](/WAT2014/wat2014.slides.shu.pdf)
 		- [poster](/WAT2014/wat2014.poster.shu.pdf)
 
+Notes
+---
+- Machine Learning
+	- [Markov Decision process](/machine_learning/markov_decision_process.md)
+	- 
+
 Online Demonstrations
 ---
 
