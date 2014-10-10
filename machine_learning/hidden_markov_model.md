@@ -83,8 +83,31 @@ Backward Algorithm
 
 ![screen shot 2014-10-10 at 17 15 28](https://cloud.githubusercontent.com/assets/1029280/4589583/a9064264-5055-11e4-8b24-c5c9684cfffa.png)
 
+> Here, the joint probability is divided into two parts.
+
 **Backward algorithm**
 
 ![screen shot 2014-10-10 at 17 15 44](https://cloud.githubusercontent.com/assets/1029280/4589584/a90a00f2-5055-11e4-81c6-eed4572ec0dd.png)
 
+---
+
 ![screen shot 2014-10-10 at 17 15 52](https://cloud.githubusercontent.com/assets/1029280/4589582/a905c500-5055-11e4-9b9b-30c40ba604d8.png)
+
+Viterbi Algorithm
+---
+
+**Decoding problem 2**
+
+![screen shot 2014-10-10 at 17 55 13](https://cloud.githubusercontent.com/assets/1029280/4590038/2a7669fa-505b-11e4-97fe-2b42a2d5faad.png)
+
+**Viterbi Decoding**
+
+![screen shot 2014-10-10 at 17 55 18](https://cloud.githubusercontent.com/assets/1029280/4590040/2ad867e0-505b-11e4-9613-5b0577a80efb.png)
+
+**￼Viterbi Algorithm**
+
+![screen shot 2014-10-10 at 17 55 22](https://cloud.githubusercontent.com/assets/1029280/4590039/2a793644-505b-11e4-9143-36bb7a5453c9.png)
+
+**￼Computational complexity**
+
+![screen shot 2014-10-10 at 17 55 27](https://cloud.githubusercontent.com/assets/1029280/4590037/2a763642-505b-11e4-8745-26ad82a2e28b.png)
