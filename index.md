@@ -1,12 +1,12 @@
-<style type="text/css"> hr {border: #ccc solid 1px;}
+
 
 Softwares
 ---
-- [pysmt](/pysmt.md)
-  - A statistical machine translation system on Python
+### [pysmt](/pysmt.md)
+A statistical machine translation system on Python
 
-- [JRNNLM](/jrnnlm.md)
-  - RNNLM implementation in JAVA
+### [JRNNLM](/jrnnlm.md)
+RNNLM implementation in JAVA
 
 ------
 
