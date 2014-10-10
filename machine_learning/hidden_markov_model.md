@@ -4,6 +4,8 @@ Hidden Markov Model (HMM)
 > Some parts in this note are from following slide:
 > http://www.cs.cmu.edu/~aarti/Class/10701/slides/Lecture17.pdf
 
+### <i class="icon-file"></i> [**Codes for this note**](http://nbviewer.ipython.org/github/zomux/notebook/blob/master/Hidden%20Markov%20Model.ipynb)
+
 Markov Assumption
 ---
 Current observation only depends on past m observations
