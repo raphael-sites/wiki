@@ -78,6 +78,7 @@ print "iterations:", len(logs[A])
 ```
 
 > optimized values: {1: 72.36809701684, 2: 92.10493912210316}
+> 
 > iterations: 56
 
 ```
