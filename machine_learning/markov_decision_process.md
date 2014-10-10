@@ -1,9 +1,11 @@
 Markov Decision Process (MDP)
 ===
 
+<i class="icon-file"></i> [Code in this note](http://nbviewer.ipython.org/github/zomux/notebook/blob/master/Markov%20Decision%20Process.ipynb)
+
 > Some parts of this page are from the slides of Stanford NLU Course.
 
-### <i class="icon-file"></i> [**Code in this note**](http://nbviewer.ipython.org/github/zomux/notebook/blob/master/Markov%20Decision%20Process.ipynb)
+
 
 
 Definition
