@@ -75,3 +75,14 @@ Forward Algorithm
 
 ![screen shot 2014-10-10 at 16 07 58](https://cloud.githubusercontent.com/assets/1029280/4588898/28811604-504c-11e4-8423-9106db47c21c.png)
 
+Backward Algorithm
+---
+**Decoding problem**
+
+![screen shot 2014-10-10 at 17 15 28](https://cloud.githubusercontent.com/assets/1029280/4589583/a9064264-5055-11e4-8b24-c5c9684cfffa.png)
+
+**Backward algorithm**
+
+![screen shot 2014-10-10 at 17 15 44](https://cloud.githubusercontent.com/assets/1029280/4589584/a90a00f2-5055-11e4-81c6-eed4572ec0dd.png)
+
+![screen shot 2014-10-10 at 17 15 52](https://cloud.githubusercontent.com/assets/1029280/4589582/a905c500-5055-11e4-9b9b-30c40ba604d8.png)
