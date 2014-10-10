@@ -6,6 +6,8 @@ Softwares
 - [JRNNLM](/jrnnlm.md)
   - RNNLM implementation in JAVA
 
+------
+
 Activities
 ---
 - WAT2014 (Workshop on Asian Translation)
@@ -13,6 +15,8 @@ Activities
 		- [paper](/WAT2014/wat2014.paper.shu.pdf)
 		- [slides](/WAT2014/wat2014.slides.shu.pdf)
 		- [poster](/WAT2014/wat2014.poster.shu.pdf)
+
+------
 
 Notes
 ---
@@ -22,9 +26,13 @@ Notes
 	- [Dynamic Bayesian Networks (DBN)](/machine_learning/dynamic_bayesian_networks.md)
 	- [Hidden Markov Model (HMM)](/machine_learning/hidden_markov_model.md)
 
+------
+
 Online Demonstrations
 ---
 
+
+------
 
 Notebooks
 ---
