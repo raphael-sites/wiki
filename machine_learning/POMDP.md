@@ -3,6 +3,8 @@ Partially Observable Markov Decision Process (POMDP)
 
 > Some parts of this note are from the slides of Stanford NLU course
 
+In POMDP,  the bot does not know the explicit state it is in. But there are some observations. 
+
 ![screen shot 2014-10-10 at 14 21 41](https://cloud.githubusercontent.com/assets/1029280/4588226/4c10aad0-503d-11e4-84f5-a61c98de05b3.png)
 
 ![screen shot 2014-10-10 at 14 22 28](https://cloud.githubusercontent.com/assets/1029280/4588230/6aa4ae88-503d-11e4-9695-307907f5c1fb.png)
