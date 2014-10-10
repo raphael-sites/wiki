@@ -26,12 +26,6 @@ Optimization
 <script src="http://www.gliffy.com/diagramEmbed.js" type="text/javascript"> </script>
 <script type="text/javascript"> gliffy_did = "6296169"; embedGliffy(); </script>
 
-<div class="mxgraph" style="position:relative;overflow:hidden;width:361px;height:91px;"><div style="width:1px;height:1px;overflow:hidden;">xVRNk5swDP01HDvDR0qTa7Jp99JTDnt2sQBPDWKMSSC/PjbIcbw0O7OX7Qnryfp4TzJRdmjGX4p19W/kIKM05mOUvURpmuQ/EvOxyLQg2zhfgEoJTpc8cBJXIDAmdBAc+uCiRpRadCFYYNtCoQOsRBmW6Fjl0nvgVDC5Rt8E1zW1nFLLFn8FUdWuTJLvFk+vJ5eDQ8kGqb/NkPFZd8NcLmI1xou5ofjpnd2xNujoitgEgILeS0VsBbVFNf6g4qACSIr276Ns2dGMTiGaQHtqxgNIOz43mSXs5xPvXS0FbVD6WQCpcWZyoNb7kvW8XGl4qYWGU8cKa1/MYlEgKA1us9bFPSWzjYANaDVZrRfvd9KA9tCZFz/nxMlUP8w4J4yRbtU9sSdqDsT137yz/8k73YXEt19IfLNiCNw8ODJR6RorbJk8enSvcGg52ATmTeyLQZ1ng3jb+I+FMOVwULOCfuU0UxXQrXkaa7kUSKbFOcz+CfLG9C9p9j38EbPjDQ==</div></div>
-
-
-
-<script type="text/javascript" src="https:/a/www.draw.io/embed.js"></script>
-
 
 Simple Implementation
 ---
