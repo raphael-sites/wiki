@@ -47,6 +47,8 @@ R = {
     CRUISE: {A: 8, B: 20}, 
     STAND: {A: 5, B: 22}
 }
+# Dictionary
+DICT = {A: "A", B: "B", CRUISE: "CRUISE", STAND: "STAND"}
 ```
 
 - Optimization
@@ -56,37 +58,58 @@ def optimize(states, actions, R, T):
     V = {}; V2 = {}
     logs = {};
     for s in states:
-        logs[s] = []
+        logs[s] = {}
+        for a in actions:
+            logs[s][a] = []
+        
     for s in states:
         V[s] = 0
         V2[s] = 0
     for iteration in range(max_iters):
         for s in states:
-            V2[s] = max(R[a][s] + gamma * sum(T[a][s][s2]*V[s2] for s2 in states) for a in actions)
-            logs[s].append(V2[s])
+            value_candidates = []
+            for a in actions:
+                value = R[a][s] + gamma * sum(T[a][s][s2]*V[s2] for s2 in states)
+                value_candidates.append(value)
+                logs[s][a].append(value)
+            V2[s] =max(value_candidates)
         if max(abs(V2[s] - V[s]) for s in states) < epsilon:
             return V2, logs
         else:
             V = V2; V2 = {}
-            
+    return V2, logs
+
+def draw_table(states, actions, R, T, V):
+    for s in states:
+        for a in actions:
+            value = R[a][s] + gamma * sum(T[a][s][s2]*V[s2] for s2 in states)
+            print "State: %s Action: %s --> %f" % (DICT[s], DICT[a], value)
 
 states = [A, B]
 actions = [CRUISE, STAND]
 optimized_V, logs = optimize(states, actions, R, T)
-print "optimized values:", optimized_V
-print "iterations:", len(logs[A])
+print "Iterations:", len(logs[A][STAND])
+draw_table(states, actions, R, T, optimized_V)
 ```
 
-> optimized values: {1: 72.36809701684, 2: 92.10493912210316}
+> Iterations: 56
 > 
-> iterations: 56
+> State: A Action: CRUISE --> 74.907603
+> 
+> State: A Action: STAND --> 80.789182
+> 
+> State: B Action: CRUISE --> 101.118129
+> 
+> State: B Action: STAND --> 94.236550
 
 ```
 from matplotlib import *
-x_axis = range(1, 1 + len(logs[A]))
+x_axis = range(1, 1 + len(logs[A][STAND]))
 for s in states:
-    plot(x_axis, logs[s], label="State %d" % s)
+    for a in actions:
+        plot(x_axis, logs[s][a], label="State %s, Action %s" % (DICT[s], DICT[a]))
 pyplot.legend(loc=4)
 show()
 ```
-> ![screen shot 2014-10-10 at 11 29 52](https://cloud.githubusercontent.com/assets/1029280/4587119/4f3f6c72-5025-11e4-908a-490d185142cc.png)
+
+> ![screen shot 2014-10-10 at 13 02 44](https://cloud.githubusercontent.com/assets/1029280/4587759/4fe661dc-5032-11e4-8e88-e0dc5476ef9c.png)
