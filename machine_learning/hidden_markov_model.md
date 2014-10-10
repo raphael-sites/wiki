@@ -59,6 +59,9 @@ A casino has two die
 
 Forward Algorithm
 ---
+**Intuition**
+
+<script src="http://www.gliffy.com/diagramEmbed.js" type="text/javascript"> </script><script type="text/javascript"> gliffy_did = "6296963"; embedGliffy(); </script>
 
 **Evaluation problem**
 
@@ -71,3 +74,4 @@ Forward Algorithm
 **Forward algorithm**
 
 ![screen shot 2014-10-10 at 16 07 58](https://cloud.githubusercontent.com/assets/1029280/4588898/28811604-504c-11e4-8423-9106db47c21c.png)
+
