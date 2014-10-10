@@ -120,4 +120,5 @@ show()
 > ![screen shot 2014-10-10 at 13 02 44](https://cloud.githubusercontent.com/assets/1029280/4587759/4fe661dc-5032-11e4-8e88-e0dc5476ef9c.png)
 
 - Conclusion
+
 After optimization, the best action for state A is STAND, for B is CRUISE
