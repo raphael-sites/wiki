@@ -1,6 +1,3 @@
-Raphael's resource page
-===
-
 Softwares
 ---
 - [pysmt](/pysmt.md)
