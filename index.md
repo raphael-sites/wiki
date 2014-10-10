@@ -17,8 +17,8 @@ Activities
 Notes
 ---
 - Machine Learning
-	- [Markov Decision process](/machine_learning/markov_decision_process.md)
-	
+	- [Markov Decision process (MDP)](/machine_learning/markov_decision_process.md)
+	- [Partially Observable Markov Decision process (POMDP)](/machine_learning/markov_decision_process.md)
 
 Online Demonstrations
 ---
