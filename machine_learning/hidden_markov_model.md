@@ -30,10 +30,10 @@ An example of HMM problem
 A casino has two die
 
 - fair
-	- $$ P(1) = P(2) = ... = P(6) = \frac{1}{6}$$
+	- $ P(1) = P(2) = ... = P(6) = \frac{1}{6}$
 - loaded
-	- $$ P(1) = P(2) = ... = P(5) = \frac{1}{10}$$
-	- $$ P(6) = \frac{1}{2} $$
+	- $ P(1) = P(2) = ... = P(5) = \frac{1}{10}$
+	- $ P(6) = \frac{1}{2} $
 
 ![screen shot 2014-10-10 at 15 41 25](https://cloud.githubusercontent.com/assets/1029280/4588703/6f1c61b2-5048-11e4-99d4-6c403ba355c2.png)
 
