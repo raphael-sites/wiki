@@ -1,3 +1,5 @@
+<style type="text/css"> hr {border: #ccc solid 1px;}
+
 Softwares
 ---
 - [pysmt](/pysmt.md)
