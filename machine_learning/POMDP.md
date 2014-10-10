@@ -1,4 +1,3 @@
+Partially Observable Markov Decision Process (POMDP)
+===
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
