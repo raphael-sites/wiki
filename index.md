@@ -1,5 +1,3 @@
-
-
 Softwares
 ---
 ### [pysmt](/pysmt.md)
