@@ -38,9 +38,11 @@ A casino has two die
 ![screen shot 2014-10-10 at 15 41 25](https://cloud.githubusercontent.com/assets/1029280/4588703/6f1c61b2-5048-11e4-99d4-6c403ba355c2.png)
 
 **Observed sequence**
+
 ![screen shot 2014-10-10 at 15 45 34](https://cloud.githubusercontent.com/assets/1029280/4588738/0a083764-5049-11e4-8426-25ec1a846677.png)
 
 **Hidden state transitions**
+
 ![screen shot 2014-10-10 at 15 45 37](https://cloud.githubusercontent.com/assets/1029280/4588739/0a124a10-5049-11e4-8fbe-d5bafe5a2d3d.png)
 
 **HMM model**
