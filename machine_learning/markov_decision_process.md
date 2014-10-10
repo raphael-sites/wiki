@@ -21,6 +21,11 @@ Optimization
 
 ![screen shot 2014-10-10 at 11 02 39](https://cloud.githubusercontent.com/assets/1029280/4586936/802b3f18-5021-11e4-8c38-07028a25eb71.png)
 
+- Intuition
+
+<script src="http://www.gliffy.com/diagramEmbed.js" type="text/javascript"> </script>
+<script type="text/javascript"> gliffy_did = "6296169"; embedGliffy(); </script>
+
 
 Simple Implementation
 ---
@@ -113,3 +118,4 @@ show()
 ```
 
 > ![screen shot 2014-10-10 at 13 02 44](https://cloud.githubusercontent.com/assets/1029280/4587759/4fe661dc-5032-11e4-8e88-e0dc5476ef9c.png)
+
