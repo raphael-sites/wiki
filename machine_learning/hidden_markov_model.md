@@ -116,7 +116,12 @@ Viterbi Algorithm
 
 ![screen shot 2014-10-10 at 17 55 27](https://cloud.githubusercontent.com/assets/1029280/4590037/2a763642-505b-11e4-8745-26ad82a2e28b.png)
 
-### Intuition
+#### Intuition
 
 ![](http://www.gliffy.com/go/publish/image/6314386/L.png)
+
+EM Algorithm
+---
+
+#### Learning problem
 
