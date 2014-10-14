@@ -1,7 +1,7 @@
 Hidden Markov Model (HMM)
 ===
 
-<i class="icon-file"></i> [Codes for this note](http://nbviewer.ipython.org/github/zomux/notebook/blob/master/Hidden%20Markov%20Model.ipynb)
+<i class="icon-file"></i> [Codes for this note](http://nbviewer.ipython.org/github/zomux/notebook/blob/master/Hidden Markov Model.ipynb)
 
 > Some parts in this note are from following slide:
 > http://www.cs.cmu.edu/~aarti/Class/10701/slides/Lecture17.pdf
@@ -108,10 +108,14 @@ Viterbi Algorithm
 
 ![screen shot 2014-10-10 at 17 55 18](https://cloud.githubusercontent.com/assets/1029280/4590040/2ad867e0-505b-11e4-9613-5b0577a80efb.png)
 
-**￼Viterbi Algorithm**
+**Viterbi Algorithm**
 
 ![screen shot 2014-10-10 at 17 55 22](https://cloud.githubusercontent.com/assets/1029280/4590039/2a793644-505b-11e4-9143-36bb7a5453c9.png)
 
-**￼Computational complexity**
+**Computational complexity**
 
 ![screen shot 2014-10-10 at 17 55 27](https://cloud.githubusercontent.com/assets/1029280/4590037/2a763642-505b-11e4-8745-26ad82a2e28b.png)
+
+### Intuition
+
+![](http://www.gliffy.com/go/publish/image/6314386/L.png)
