@@ -143,6 +143,10 @@ then,
 
 ![screen shot 2014-10-14 at 16 05 09](https://cloud.githubusercontent.com/assets/1029280/4625073/a2038558-5370-11e4-81c3-749dd472df8e.png)
 
+#### Intuition
+
+![](http://www.gliffy.com/go/publish/image/6314980/L.png)
+
 ---
 
 Conclusion
