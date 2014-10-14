@@ -67,7 +67,7 @@ Forward Algorithm
 ---
 **Intuition**
 
-<script src="http://www.gliffy.com/diagramEmbed.js" type="text/javascript"> </script><script type="text/javascript"> gliffy_did = "6296963"; embedGliffy(); </script>
+![](http://www.gliffy.com/go/publish/image/6296963/L.png)
 
 **Evaluation problem**
 
@@ -119,3 +119,4 @@ Viterbi Algorithm
 ### Intuition
 
 ![](http://www.gliffy.com/go/publish/image/6314386/L.png)
+
