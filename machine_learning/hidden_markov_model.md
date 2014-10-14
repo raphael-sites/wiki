@@ -63,6 +63,8 @@ A casino has two die
 
 ![screen shot 2014-10-10 at 15 53 33](https://cloud.githubusercontent.com/assets/1029280/4588798/1fffacb8-504a-11e4-8dd7-63ba832596a1.png)
 
+---
+
 Forward Algorithm
 ---
 **Intuition**
@@ -81,6 +83,8 @@ Forward Algorithm
 
 ![screen shot 2014-10-10 at 16 07 58](https://cloud.githubusercontent.com/assets/1029280/4588898/28811604-504c-11e4-8423-9106db47c21c.png)
 
+---
+
 Backward Algorithm
 ---
 **Decoding problem**
@@ -96,6 +100,8 @@ Backward Algorithm
 ---
 
 ![screen shot 2014-10-10 at 17 15 52](https://cloud.githubusercontent.com/assets/1029280/4589582/a905c500-5055-11e4-9b9b-30c40ba604d8.png)
+
+---
 
 Viterbi Algorithm
 ---
@@ -120,8 +126,26 @@ Viterbi Algorithm
 
 ![](http://www.gliffy.com/go/publish/image/6314386/L.png)
 
+---
+
 EM Algorithm
 ---
 
 #### Learning problem
 
+![screen shot 2014-10-14 at 16 04 57](https://cloud.githubusercontent.com/assets/1029280/4625074/a205eb5e-5370-11e4-8e57-32866a81e504.png)
+
+#### ￼Baum-Welch (EM) Algorithm
+
+![screen shot 2014-10-14 at 16 05 03](https://cloud.githubusercontent.com/assets/1029280/4625075/a20da4c0-5370-11e4-832a-b83e9312d9e0.png)
+
+then,
+
+![screen shot 2014-10-14 at 16 05 09](https://cloud.githubusercontent.com/assets/1029280/4625073/a2038558-5370-11e4-81c3-749dd472df8e.png)
+
+---
+
+Conclusion
+---
+
+![screen shot 2014-10-14 at 16 05 15](https://cloud.githubusercontent.com/assets/1029280/4625072/a200084c-5370-11e4-9248-74b12d6daa1c.png)
