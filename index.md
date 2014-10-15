@@ -3,10 +3,12 @@
 
 Softwares
 ---
-### [pysmt](/pysmt.md)
+### <i class="icon-angle-right"></i> [pysmt](/pysmt.md)
 A statistical machine translation system on Python
 
-### [JRNNLM](/jrnnlm.md)
+
+
+### <i class="icon-angle-right"></i> [JRNNLM](/jrnnlm.md)
 RNNLM implementation in JAVA
 
 ------
