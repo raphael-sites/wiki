@@ -6,7 +6,7 @@ Overlook of the model
 
 ![](https://docs.google.com/drawings/d/1z3DOPFLsRDmjqLN9DXBq-kmuGFB81NP8Vwx8S8nsmss/pub?w=600&amp;h=400)
 
-
+Basically, only two types of utterance exist in this model.
 
 Example
 ----
