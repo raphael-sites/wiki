@@ -43,6 +43,7 @@ A chat bot based on this model
 ---
 
 The following features are required.
+
 - Learn how to make response with the context of previous 2 ~ 3 utterances.
 - Learn how to infer and control the topic / subtopic.
 - Learn how to determine next topic / subtopic and the timing to change.
