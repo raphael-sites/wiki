@@ -1,3 +1,0 @@
-Sync dropbox with github
-===
-
