@@ -51,5 +51,5 @@ The following features are required.
 A mind map
 ---
 
-<iframe width="600" height="400" frameborder="0" src="http://www.mindmeister.com/maps/public_map_shell/470590046/conversation-model?width=600&height=400&z=auto&no_share=1&no_logo=1" scrolling="no" style="overflow:hidden">Your browser is not able to display frames. Please visit the <a rel="nofollow" href="http://www.mindmeister.com/470590046/conversation-model" target="_blank">mind map: Conversation model</a> on <a rel="nofollow" href="http://www.mindmeister.com" target="_blank">Mind Mapping - MindMeister</a>.</iframe>
+<iframe width="600" height="400" frameborder="0" src="http://www.mindmeister.com/maps/public_map_shell/470590046/conversation-model?width=600&height=400&z=auto&live_update=1" scrolling="no" style="overflow:hidden">Your browser is not able to display frames. Please visit the <a rel="nofollow" href="http://www.mindmeister.com/470590046/conversation-model" target="_blank">mind map: Conversation model</a> on <a rel="nofollow" href="http://www.mindmeister.com" target="_blank">Mind Mapping - MindMeister</a>.</iframe>
 
