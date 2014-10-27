@@ -51,6 +51,7 @@ The following features are required.
 A mind map
 ---
 
-![conversation model mindmap](https://cloud.githubusercontent.com/assets/1029280/4787642/6ea8da94-5dae-11e4-854c-6b1d43dc9cab.png)
+![conversation model mindmap](https://cloud.githubusercontent.com/assets/1029280/4787769/6992941c-5db0-11e4-940b-4505cb1a68a9.png)
+
 
 
