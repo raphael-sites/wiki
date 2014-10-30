@@ -1,4 +1,4 @@
-Iwhile true
+while true
 do
   git add -A .
   git commit -m "-"
