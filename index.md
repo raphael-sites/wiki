@@ -1,6 +1,4 @@
 
-> My bio page: [http://raphael.uaca.com](http://raphael.uaca.com)
-
 Softwares
 ---
 ### <i class="glyphicon glyphicon-chevron-right"></i> [pysmt](/pysmt.md)
