@@ -1,5 +1,5 @@
 
-Interest
+Interests
 ---
 - Statistical Machine Translation
 - Natural Language Understanding
