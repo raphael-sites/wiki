@@ -20,9 +20,9 @@ Papers
 ---
 
 - A preordering method using head-restructured CFG parse tree for SMT
- - [http://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P6-5.pdf]
+ - [http://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P6-5.pdf](http://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P6-5.pdf)
 - TSUKU Statistical Machine Translation System for the NTCIR-10 PatentMT Task
- - [http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/PatentMT/20-NTCIR10-PATENTMT-ZhuZ.pdf]()
+ - [http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/PatentMT/20-NTCIR10-PATENTMT-ZhuZ.pdf](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/PatentMT/20-NTCIR10-PATENTMT-ZhuZ.pdf)
 - Thesis of master's degree
  - []()
 
@@ -32,15 +32,15 @@ Softwares
 ---
 - nlpy
  - yet another NLP toolkit on Python (especially, theano)
- - [http://nlpy.org]()
+ - [http://nlpy.org](http://nlpy.org)
 - pysmt
  - A statistical machine translation system on Python
- - [/pysmt.md]()
+ - [/pysmt.md](/pysmt.md)
 - JRNNLM
  - RNNLM implementation in JAVA
- - [/jrnnlm.md]()
+ - [/jrnnlm.md](/jrnnlm.md)
 - Parse tree visualizer
- - [http://demos.uaca.com/demos/parsetree]()
+ - [http://demos.uaca.com/demos/parsetree](http://demos.uaca.com/demos/parsetree)
 
 ------
 
