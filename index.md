@@ -24,7 +24,7 @@ Papers
 - TSUKU Statistical Machine Translation System for the NTCIR-10 PatentMT Task
  - [http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/PatentMT/20-NTCIR10-PATENTMT-ZhuZ.pdf](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/PatentMT/20-NTCIR10-PATENTMT-ZhuZ.pdf)
 - Thesis of master's degree
- - []()
+ - [/papers/master-thesis.pdf](/papers/master-thesis.pdf)
 
 ------
 
