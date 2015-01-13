@@ -32,13 +32,13 @@ Softwares
 ---
 - nlpy
  - yet another NLP toolkit on Python (especially, theano)
- - [link](nlpy.org)
+ - [link:nlpy.org](http://nlpy.org)
 - pysmt
  - A statistical machine translation system on Python
- - [link](/pysmt.md)
+ - [link:/pysmt.md](/pysmt.md)
 - JRNNLM
  - RNNLM implementation in JAVA
- - [link](/jrnnlm.md)
+ - [link:/jrnnlm.md](/jrnnlm.md)
 - Parse tree visualizer
  - http://demos.uaca.com/demos/parsetree
 
