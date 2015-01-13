@@ -20,7 +20,7 @@ Papers
 ---
 
 - A preordering method using head-restructured CFG parse tree for SMT
- - [http://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P6-5.pdf]()
+ - [http://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P6-5.pdf]
 - TSUKU Statistical Machine Translation System for the NTCIR-10 PatentMT Task
  - [http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/PatentMT/20-NTCIR10-PATENTMT-ZhuZ.pdf]()
 - Thesis of master's degree
