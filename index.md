@@ -1,13 +1,8 @@
 
-Softwares
+Interest
 ---
-### <i class="glyphicon glyphicon-chevron-right"></i> [pysmt](/pysmt.md)
-A statistical machine translation system on Python
-
-
-
-### <i class="glyphicon glyphicon-chevron-right"></i> [JRNNLM](/jrnnlm.md)
-RNNLM implementation in JAVA
+- Statistical Machine Translation
+- Natural Language Understanding
 
 ------
 
@@ -18,6 +13,47 @@ Activities
 		- [paper](/WAT2014/wat2014.paper.shu.pdf)
 		- [slides](/WAT2014/wat2014.slides.shu.pdf)
 		- [poster](/WAT2014/wat2014.poster.shu.pdf)
+		- 
+		
+Papers
+---
+
+A preordering method using head-restructured CFG parse tree for SMT
+- http://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P6-5.pdf
+
+TSUKU Statistical Machine Translation System for the NTCIR-10 PatentMT Task
+- http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings10/pdf/NTCIR/PatentMT/20-NTCIR10-PATENTMT-ZhuZ.pdf
+
+------
+
+Softwares
+---
+
+
+### <i class="glyphicon glyphicon-chevron-right"></i> [pysmt](/pysmt.md)
+A statistical machine translation system on Python
+
+### <i class="glyphicon glyphicon-chevron-right"></i> [JRNNLM](/jrnnlm.md)
+RNNLM implementation in JAVA
+
+Parse tree visualizer
+- http://demos.uaca.com/demos/parsetree
+
+------
+
+
+Online Demonstrations
+---
+
+Pre-reordering for English-Japanese machine translation
+- http://demos.uaca.com/demos/raphreorder
+
+Head-restructured CFG parse tree
+- http://demos.uaca.com/demos/hdtree
+
+CFG - Dependency parse tree combiner
+- combine by moving the position of dependency heads
+- http://demos.uaca.com/demos/combiner
 
 ------
 
@@ -31,11 +67,6 @@ Notes
 
 ------
 
-Online Demonstrations
----
-
-
-------
 
 Notebooks
 ---
