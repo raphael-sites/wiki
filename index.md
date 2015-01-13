@@ -40,7 +40,7 @@ Softwares
  - RNNLM implementation in JAVA
  - [link:/jrnnlm.md](/jrnnlm.md)
 - Parse tree visualizer
- - http://demos.uaca.com/demos/parsetree
+ - [](http://demos.uaca.com/demos/parsetree)
 
 ------
 
@@ -49,12 +49,12 @@ Online Demonstrations
 ---
 
 - Pre-reordering for English-Japanese machine translation
- - http://demos.uaca.com/demos/raphreorder
+ - [](http://demos.uaca.com/demos/raphreorder)
 - Head-restructured CFG parse tree
- - http://demos.uaca.com/demos/hdtree
+ - [](http://demos.uaca.com/demos/hdtree)
 - CFG - Dependency parse tree combiner
  - combine by moving the position of dependency heads
- - http://demos.uaca.com/demos/combiner
+ - [](http://demos.uaca.com/demos/combiner)
 
 ------
 
