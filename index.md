@@ -54,7 +54,7 @@ Softwares
  - [/pysmt.md](/pysmt.md)
 - JRNNLM
  - RNNLM implementation in JAVA
- - [/jrnnlm.md](/jrnnlm.md)
+ - [https://github.com/zomux/jrnnlm](https://github.com/zomux/jrnnlm)
 - Parse tree visualizer
  - [http://demos.uaca.com/demos/parsetree](http://demos.uaca.com/demos/parsetree)
 
