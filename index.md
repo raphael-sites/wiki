@@ -62,7 +62,8 @@ Softwares
 
 Notes
 ---
-- [Roadmap of NLP](/notes/nlp_roadmap.md)
+- Natural Langauge Processing
+	- [Roadmap of NLP](/notes/nlp_roadmap.md)
 - Machine Learning
 	- [Markov Decision process (MDP)](/machine_learning/markov_decision_process.md)
 	- [Partially Observable Markov Decision process (POMDP)](/machine_learning/POMDP.md)
