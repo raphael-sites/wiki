@@ -6,7 +6,7 @@ This page aims to summarize some prerequisites to get a well understanding for m
 
 ---
 
-### Understanding probabilistic models
+#### Understanding probabilistic models
 
 - Probability Theory
 - Bayesian Statistics
