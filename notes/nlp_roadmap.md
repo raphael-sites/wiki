@@ -17,6 +17,10 @@ This page aims to summarize some prerequisites to get a well understanding for m
 		- 
 - Bayesian Statistics
 - Probabilistic Graphical Models
+	- Learning materials
+		- Coursera - Probabilistic Graphical Models
+			- https://www.coursera.org/course/pgm
+		- 
 
 ---
 
