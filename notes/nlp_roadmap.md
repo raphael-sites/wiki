@@ -11,6 +11,8 @@ This page aims to summarize some prerequisites to get a well understanding for m
 - Probability Theory
 	- [Statistics 110: Probability (Harvard)](https://itunes.apple.com/us/course/statistics-110-probability/id502492375)
 	- [Probability & Statistics (CMU)](http://oli.cmu.edu/courses/free-open/statistics-course-details/)
+	- [Intro into Statistics (UDACITY)](https://www.udacity.com/course/st101)
+	- [OnlineStatBook Project](http://onlinestatbook.com/2/index.html)
 - Bayesian Statistics
 - Probabilistic Graphical Models
 	- [Coursera - Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
