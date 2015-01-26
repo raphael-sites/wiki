@@ -9,13 +9,11 @@ This page aims to summarize some prerequisites to get a well understanding for m
 #### Understanding probabilistic models
 
 - Probability Theory
-	- Learning materials
-		- [Statistics 110: Probability (Harvard)](https://itunes.apple.com/us/course/statistics-110-probability/id502492375)
-		- [Probability & Statistics (CMU)](http://oli.cmu.edu/courses/free-open/statistics-course-details/)
+	- [Statistics 110: Probability (Harvard)](https://itunes.apple.com/us/course/statistics-110-probability/id502492375)
+	- [Probability & Statistics (CMU)](http://oli.cmu.edu/courses/free-open/statistics-course-details/)
 - Bayesian Statistics
 - Probabilistic Graphical Models
-	- Learning materials
-		- [Coursera - Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
+	- [Coursera - Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
 
 ---
 
