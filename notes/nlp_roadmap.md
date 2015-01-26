@@ -14,6 +14,7 @@ This page aims to summarize some prerequisites to get a well understanding for m
 	- [Intro into Statistics (UDACITY)](https://www.udacity.com/course/st101)
 	- [OnlineStatBook Project](http://onlinestatbook.com/2/index.html)
 - Bayesian Statistics
+	- 
 - Probabilistic Graphical Models
 	- [Coursera - Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
 
@@ -22,6 +23,8 @@ This page aims to summarize some prerequisites to get a well understanding for m
 #### Understanding computational graph (especially in neural networks)
 
 - Linear Algebra
+	- [MIT Open Courseware](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+	- [Coursera - Coding the matrix](https://www.coursera.org/course/matrix)
 - Multivariate Calculus
 - Optimization
 
