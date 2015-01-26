@@ -12,6 +12,8 @@ This page aims to summarize some prerequisites to get a well understanding for m
 	- Learning materials
 		- Statistics 110: Probability (Harvard)
 			- https://itunes.apple.com/us/course/statistics-110-probability/id502492375
+		- Probability & Statistics (CMU)
+			- http://oli.cmu.edu/courses/free-open/statistics-course-details/
 		- 
 - Bayesian Statistics
 - Probabilistic Graphical Models
