@@ -4,6 +4,8 @@ Roadmap in Natural Language Processing
 
 This page aims to summarize some prerequisites to get a well understanding for many popular Natural Language Processing models. 
 
+![](https://www.lucidchart.com/publicSegments/view/54d81254-7ef8-4a56-b2cc-14e50a00dd31/image.png)
+
 ---
 
 #### Understanding probabilistic models
