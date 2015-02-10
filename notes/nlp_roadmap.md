@@ -44,6 +44,7 @@ This page aims to summarize some prerequisites to get a well understanding for m
 - Overview of machine learning
 	- [Coursera - Machine learning (Stanford)](https://www.coursera.org/course/ml)
 	- [Coursera - Machine learning (Washington)](https://www.coursera.org/course/machlearning)
+	- [Machine Learning: Supervised Learning (UDACITY) ](https://www.udacity.com/course/ud675)
 - Neural networks
 	- [Coursera - Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 
