@@ -16,7 +16,8 @@ This page aims to summarize some prerequisites to get a well understanding for m
 	- [Intro into Statistics (UDACITY)](https://www.udacity.com/course/st101)
 	- [OnlineStatBook Project](http://onlinestatbook.com/2/index.html)
 - Bayesian Statistics
-	- 
+	- [What is Bayesian statistics and why everything else is wrong](http://people.math.umass.edu/~lavine/whatisbayes.pdf)
+	- [ThinkBayes (Book)](http://www.greenteapress.com/thinkbayes/)
 - Probabilistic Graphical Models
 	- [Coursera - Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
 
@@ -40,6 +41,9 @@ This page aims to summarize some prerequisites to get a well understanding for m
 
 #### Understanding machine learning
 
+- Overview of machine learning
+	- [Coursera - Machine learning (Stanford)](https://www.coursera.org/course/ml)
+	- [Coursera - Machine learning (Washington)](https://www.coursera.org/course/machlearning)
 - Neural networks
 	- [Coursera - Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 
