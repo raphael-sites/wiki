@@ -53,6 +53,7 @@ This page aims to summarize some prerequisites to get a well understanding for m
 #### A special branch of self-organizing and self-learning
 
 - Reinforcement Learning
+	- [AI - FOUNDATIONS OF COMPUTATIONAL AGENTS](http://artint.info/html/ArtInt.html)
 
 ---
 
