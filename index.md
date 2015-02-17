@@ -65,6 +65,7 @@ Notes
 - Natural Langauge Processing
 	- [Roadmap of NLP](/notes/nlp_roadmap.md)
 - Machine Learning
+	- [Q Learning](/notes/qlearning.md) 
 	- [Markov Decision process (MDP)](/machine_learning/markov_decision_process.md)
 	- [Partially Observable Markov Decision process (POMDP)](/machine_learning/POMDP.md)
 	- [Dynamic Bayesian Networks (DBN)](/machine_learning/dynamic_bayesian_networks.md)
