@@ -54,6 +54,7 @@ This page aims to summarize some prerequisites to get a well understanding for m
 
 - Reinforcement Learning
 	- [AI - FOUNDATIONS OF COMPUTATIONAL AGENTS](http://artint.info/html/ArtInt.html)
+	- [Reinforcement Learning (UDACITY) ](https://www.udacity.com/course/ud820)
 
 ---
 
