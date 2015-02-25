@@ -6,6 +6,8 @@
 
 ## Bellman equation
 
+$$ U(s) = R(s) + \gamma max_{s'} { U(s') }  $$
+
 ## Q learning
 
 ## $\epsilon$-greedy learning
