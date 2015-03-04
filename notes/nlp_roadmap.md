@@ -20,10 +20,12 @@ This page aims to summarize some prerequisites to get a well understanding for m
 	- [ThinkBayes (Book)](http://www.greenteapress.com/thinkbayes/)
 - Probabilistic Graphical Models
 	- [Coursera - Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
+- Bonus
+	- [Visualization of all probabilistic distributions](https://kaz-yos.shinyapps.io/ShinyDistributionsApp/)
 
 ---
 
-#### Understanding computational graph (especially in neural networks)
+#### Understanding optimization
 
 - Linear Algebra
 	- [MIT Open Courseware](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
@@ -33,7 +35,7 @@ This page aims to summarize some prerequisites to get a well understanding for m
 
 ---
 
-#### Understanding model compression
+#### Understanding algorithms
 
 - Data Structures & Algorithms
 
@@ -59,6 +61,15 @@ This page aims to summarize some prerequisites to get a well understanding for m
 
 ---
 
-#### Finally, understand how machine learning techniques are applied to NLP tasks
+#### Finally, models for NLP tasks
 
-- 
+- Text segmentation
+- Tokenization
+- Statistic machine translation
+
+### Natural language understanding
+
+- Concept representation / Knowledge graph
+- Semantic parsing
+- Distributed representation learning
+- Question anwser
