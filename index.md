@@ -65,6 +65,7 @@ Notes
 - Natural Langauge Processing
 	- [Roadmap of NLP](/notes/nlp_roadmap.md)
 - Machine Learning
+	- [Visualization of optimization algorithms agianst local optima](/machine_learning/visualize_optimization.html)
 	- [Q Learning](/notes/qlearning.md) 
 	- [Markov Decision process (MDP)](/machine_learning/markov_decision_process.md)
 	- [Partially Observable Markov Decision process (POMDP)](/machine_learning/POMDP.md)
