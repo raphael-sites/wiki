@@ -11,4 +11,4 @@ Then the REINFORCE algorithm learns the gradient of this log probability wrt. we
 
 This never worked in my experimental setting, instead, it seems the following simple gradient can make REINFORCE work.
 
-$$ \nabla_{\theano}{l_t} $$
+$$ \nabla_{\theta}{l_t} $$
