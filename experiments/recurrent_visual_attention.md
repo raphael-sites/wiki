@@ -2,7 +2,7 @@
 # Recurrent visual attention model
 (Experiment notes)
 
-### (2015/3/19)
+### 2015/3/19
 #### REINFORCE learning for the policy of location network
 
 
@@ -34,7 +34,7 @@ g = T.grad(T.log(sampled_pdf), wl, known_grads={sampled_l_t: theano.gradient.Dis
 f = theano.function([], [l_t, sampled_pdf, g])
 f()
 ```
-### (2015/3/24)
+### 2015/3/24
 #### Variance of gaussian sampler should be decrease when the learning get stucked
 
 #### REINFORCE rule does not work well with ADADELTA
