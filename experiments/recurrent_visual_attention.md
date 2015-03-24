@@ -2,6 +2,9 @@
 # Recurrent visual attention model
 (Experiment notes)
 
+### Variance of gaussian sampler should be decrease when the learning get stucked
+#### (2015/3/24)
+
 ### REINFORCE rule does not work well with ADADELTA
 #### (2015/3/24)
 
