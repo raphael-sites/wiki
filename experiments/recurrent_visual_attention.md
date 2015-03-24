@@ -42,7 +42,9 @@ f()
 #### May be use gaussian distribution as policy is a bad idea
 
 If the variance is set to be a small value, then a outlier can give exploding gradient.
+
 If the variance is large, then it's hard to make the training converge.
+
 - stochacity will increase over time in the recurrent network
 - Clip gradients can not help much
 
