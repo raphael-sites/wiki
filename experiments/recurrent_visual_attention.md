@@ -2,14 +2,19 @@
 # Recurrent visual attention model
 (Experiment notes)
 
-### Variance of gaussian sampler should be decrease when the learning get stucked
-#### (2015/3/24)
+### (2015/3/19)
+#### REINFORCE learning for the policy of location network
 
-### REINFORCE rule does not work well with ADADELTA
-#### (2015/3/24)
 
-### Solve zero-gradient problem for gaussian pdf function in theano
-#### (2015/3/19)
+In the paper, the policy is defined as multivariate gaussian pdf of position.
+
+Then the REINFORCE algorithm learns the gradient of this log probability wrt. weight of location network
+
+This never worked in my experimental setting, instead, it seems the following simple gradient can make REINFORCE work.
+
+$$ \nabla_{\theta}{l_t} $$
+
+#### Solve zero-gradient problem for gaussian pdf function in theano
 
 Consider sampled position as a constant in T.grad.
 
@@ -29,14 +34,13 @@ g = T.grad(T.log(sampled_pdf), wl, known_grads={sampled_l_t: theano.gradient.Dis
 f = theano.function([], [l_t, sampled_pdf, g])
 f()
 ```
+### (2015/3/24)
+#### Variance of gaussian sampler should be decrease when the learning get stucked
 
-### REINFORCE learning for the policy of location network
-#### (2015/3/19)
+#### REINFORCE rule does not work well with ADADELTA
 
-In the paper, the policy is defined as multivariate gaussian pdf of position.
+#### May be use gaussian distribution as policy is a bad idea
 
-Then the REINFORCE algorithm learns the gradient of this log probability wrt. weight of location network
-
-This never worked in my experimental setting, instead, it seems the following simple gradient can make REINFORCE work.
-
-$$ \nabla_{\theta}{l_t} $$
+If the variance is set to be a small value, then a outlier can give exploding gradient.
+If the variance is large, then it's hard to make the training converge.
+- stochacity will increase over time in the recurrent network
