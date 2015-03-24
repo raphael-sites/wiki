@@ -2,6 +2,9 @@
 # Recurrent visual attention model
 (Experiment notes)
 
+### REINFORCE rule does not work well with ADADELTA
+#### (2015/3/24)
+
 ### Solve zero-gradient problem for gaussian pdf function in theano
 #### (2015/3/19)
 
