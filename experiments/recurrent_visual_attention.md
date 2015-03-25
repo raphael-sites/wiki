@@ -63,3 +63,5 @@ If the variance is large, then it's hard to make the training converge.
 Backprop with RL really is non-trivial thing.
 
 ---
+
+It seems ADAGRAD is more stable than ADADELTA leads the validate error to 9.8
