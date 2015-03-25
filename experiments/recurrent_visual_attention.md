@@ -65,3 +65,6 @@ Backprop with RL really is non-trivial thing.
 ---
 
 It seems ADAGRAD is more stable than ADADELTA leads the validate error to 9.8
+
+![screen shot 2015-03-25 at 12 44 42](https://cloud.githubusercontent.com/assets/1029280/6818067/ef0081e8-d2ec-11e4-9e4a-a8e08e98f3f7.png)
+
