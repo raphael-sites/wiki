@@ -14,6 +14,8 @@ This never worked in my experimental setting, instead, it seems the following si
 
 $$ \nabla_{\theta}{l_t} $$
 
+---
+
 #### Solve zero-gradient problem for gaussian pdf function in theano
 
 Consider sampled position as a constant in T.grad.
@@ -34,10 +36,17 @@ g = T.grad(T.log(sampled_pdf), wl, known_grads={sampled_l_t: theano.gradient.Dis
 f = theano.function([], [l_t, sampled_pdf, g])
 f()
 ```
+
+---
+
 ### 2015/3/24
 #### Variance of gaussian sampler should be decrease when the learning get stucked
 
+---
+
 #### REINFORCE rule does not work well with ADADELTA
+
+---
 
 #### May be use gaussian distribution as policy is a bad idea
 
@@ -47,6 +56,8 @@ If the variance is large, then it's hard to make the training converge.
 
 - stochacity will increase over time in the recurrent network
 - Clip gradients can not help much
+
+---
 
 ### 2015/3/25
 Backprop with RL really is non-trivial thing.
