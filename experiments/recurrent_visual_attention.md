@@ -48,3 +48,7 @@ If the variance is large, then it's hard to make the training converge.
 - stochacity will increase over time in the recurrent network
 - Clip gradients can not help much
 
+### 2015/3/25
+Backprop with RL really is non-trivial thing.
+
+---
