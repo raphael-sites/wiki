@@ -87,5 +87,6 @@ Differences between the model described in literal:
  - In this experiment, normal recurrent NN is used to save time
  
 Attention trajectories:
+
 ![avaaaaaelftksuqmcc](https://cloud.githubusercontent.com/assets/1029280/6840429/50e5b1d4-d3bb-11e4-9444-8d6319b7de61.png)
 
