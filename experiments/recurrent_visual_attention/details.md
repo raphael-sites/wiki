@@ -96,3 +96,6 @@ Attention trajectories:
 
 ![avaaaaaelftksuqmcc](https://cloud.githubusercontent.com/assets/1029280/6840429/50e5b1d4-d3bb-11e4-9444-8d6319b7de61.png)
 
+Notebook for plotting:
+
+http://nbviewer.ipython.org/github/zomux/wiki/blob/master/experiments/recurrent_visual_attention/Plot%20attentions.ipynb
