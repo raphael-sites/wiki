@@ -87,6 +87,11 @@ Differences between the model described in literal:
 - Reccurent NN vs. LSTM
  - In this experiment, normal recurrent NN is used to save time
  
+ Other insights:
+ 
+ - Pre-training with random glimpses may be important
+  - Enable the network to link partial observation to final prediction
+ 
 Attention trajectories:
 
 ![avaaaaaelftksuqmcc](https://cloud.githubusercontent.com/assets/1029280/6840429/50e5b1d4-d3bb-11e4-9444-8d6319b7de61.png)
