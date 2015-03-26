@@ -81,6 +81,7 @@ Final results using fine-tuning ADAGRAD:
 - test error: 4.19
 
 Differences between the model described in literal:
+
 - tanh non-linearity vs. RELU
  - RELU gives explosion in gradients in my experiments
 - Reccurent NN vs. LSTM
