@@ -90,6 +90,7 @@ Differences between the model described in literal:
  Other insights:
  
  - Pre-training with random glimpses may be important
+  - Use ADADELTA
   - Enable the network to link partial observation to final prediction
  
 Attention trajectories:
