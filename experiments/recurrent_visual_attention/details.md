@@ -73,3 +73,19 @@ It seems ADAGRAD is more stable than ADADELTA leads the validate error to 9.8
 
 More details found available in "MULTIPLE OBJECT RECOGNITION WITH VISUAL ATTENTION", including variance and zoom ratio (15%)
 
+### 2015/3/26
+
+Final results using fine-tuning ADAGRAD:
+
+- valid error: 3.64
+- test error: 4.19
+
+Differences between the model described in literal:
+- tanh non-linearity vs. RELU
+ - RELU gives explosion in gradients in my experiments
+- Reccurent NN vs. LSTM
+ - In this experiment, normal recurrent NN is used to save time
+ 
+Attention trajectories:
+![avaaaaaelftksuqmcc](https://cloud.githubusercontent.com/assets/1029280/6840429/50e5b1d4-d3bb-11e4-9444-8d6319b7de61.png)
+
