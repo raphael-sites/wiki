@@ -77,7 +77,7 @@ Notes
 
 Notebooks
 ---
-- [Logistic Regression](http://nbviewer.ipython.org/github/zomux/notebook/blob/master/Logistic%20Regression.ipynb)
+- [All notebooks](http://nbviewer.ipython.org/github/zomux/notebooks/tree/master) 
 
-[All notebooks](http://nbviewer.ipython.org/github/zomux/notebook/tree/master) (not all of them are useful)
+ (not all of them are useful)
 
