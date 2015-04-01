@@ -27,6 +27,14 @@ Q_i(z_i) &= \frac{P(x_i, z_i \,|\, \theta)}{\sum_{z_i} P(x_i, z_i \,|\, \theta)}
 &= P(z_i \,|\, x_i, \theta)
 \end{aligned}$$
 
+
+<p>Returning to our normal mixture example:</p>
+<p>For the <strong>E-step</strong> we need to identify $Q_i(z_i)$</p>
+$$Q_i(z_i) = P(z_i \,|\, x_i, \mu, \sigma, \psi)$$<p>Via Bayes' formula:</p>
+$$P(z_i=j \,|\, x_i) = \frac{P(x_i \,|\, z_i=j)P(z_i=j)}{\sum_l P(x_i \,|\, z_i=l)P(z_i=l)}$$<p>where $P(x_i \,|\, z_i=l)$ is just the $j$th Normal distribution of the mixture, and $P(z_i=l)$ is a multinomial probability.</p>
+<p>This gives us:</p>
+$$P(z_i=1 \,|\, x_i) = \frac{\psi N(\mu_b, \sigma_b^2)}{\psi N(\mu_a, \sigma_a^2) + (1-\psi) N(\mu_b, \sigma_b^2)}$$<p>(recall that we are encoding <code>a=0</code> and <code>b=1</code>)</p>
+
 # References
 - http://nbviewer.ipython.org/github/fonnesbeck/Bios366/blob/master/notebooks/Section3_3-Expectation-Maximization.ipynb
 - https://www.cs.utah.edu/~suyash/Dissertation_html/node9.html
