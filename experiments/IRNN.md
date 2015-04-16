@@ -16,5 +16,5 @@ At some point, the optimization algorithm will find a super-steep slope gives hu
 
 # Some tricks to make the training more stable (slightly)
 
-- Bound the identity weight matrix to [0, 0.99]
+- Bound the value of identity weight matrix to [0, 0.99]
 - Learning rate decay
