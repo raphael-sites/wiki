@@ -34,7 +34,6 @@ On local sandstorm server:
 
 ```
 autossh -M 0 -N -R 6090:localhost:6080 root@HOST_B -p SSH_PORT_B -o "ServerAliveInterval 60"
-```
+
 autossh -M 0 -N -R 6091:localhost:6081 root@HOST_B -p SSH_PORT_B -o "ServerAliveInterval 60"
-```
 ```
