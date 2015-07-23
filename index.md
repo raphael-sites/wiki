@@ -46,6 +46,9 @@ Online Demonstrations
 
 Softwares
 ---
+- deepy
+ - Highly extensible deep learning framework based on Theano
+ - [https://github.com/uaca/deepy](https://github.com/uaca/deepy)
 - nlpy
  - yet another NLP toolkit on Python (especially, theano)
  - [http://nlpy.org](http://nlpy.org)
