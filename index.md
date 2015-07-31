@@ -1,14 +1,21 @@
 
 Interests
 ---
-- Statistical Machine Translation
-- Natural Language Understanding
+- Natural Language Processing
+	- Natural Language Understanding
+	- Statistical Machine Translation
+- Machine Learning
+	- Reinforcement Learning
+	- Representation Learning
+	- Variational Inference
+	- Knowledge Extraction
 
 ------
 
 Activities
 ---
-- WAT2014 (Workshop on Asian Translation)
+- WAT (Workshop on Asian Translation) 2014
+	- Second place in English-Japanese translation task
 	- Weblio Pre-reordering Statistical Machine Translation System
 		- [paper](/WAT2014/wat2014.paper.shu.pdf)
 		- [slides](/WAT2014/wat2014.slides.shu.pdf)
@@ -28,6 +35,13 @@ Papers
 
 ------
 
+Cool stuffs
+---
+
+- [Visualization of optimization methods](/machine_learning/visualize_optimization.html)
+- [Visualization of Monte Carlo methods](/machine_learning/markov_chain_monte_carlo.html)
+- [Online CFG parse tree visualizer](http://demos.uaca.com/demos/parsetree)
+------
 
 
 Online Demonstrations
@@ -52,14 +66,14 @@ Softwares
 - nlpy
  - yet another NLP toolkit on Python (especially, theano)
  - [http://nlpy.org](http://nlpy.org)
+ - work in progress
 - pysmt
  - A statistical machine translation system on Python
  - [/pysmt.md](/pysmt.md)
+ - work in progress
 - JRNNLM
  - RNNLM implementation in JAVA
  - [https://github.com/zomux/jrnnlm](https://github.com/zomux/jrnnlm)
-- Parse tree visualizer
- - [http://demos.uaca.com/demos/parsetree](http://demos.uaca.com/demos/parsetree)
 
 ------
 
@@ -68,19 +82,13 @@ Notes
 - Natural Langauge Processing
 	- [Roadmap of NLP](/notes/nlp_roadmap.md)
 - Machine Learning
-	- [Visualization of optimization algorithms against local optima](/machine_learning/visualize_optimization.html)
 	- [Q Learning](/notes/qlearning.md) 
 	- [Markov Decision process (MDP)](/machine_learning/markov_decision_process.md)
 	- [Partially Observable Markov Decision process (POMDP)](/machine_learning/POMDP.md)
 	- [Dynamic Bayesian Networks (DBN)](/machine_learning/dynamic_bayesian_networks.md)
 	- [Hidden Markov Model (HMM)](/machine_learning/hidden_markov_model.md)
-
+- Statistics
+	- .
 ------
 
-
-Notebooks
----
-- [All notebooks](http://nbviewer.ipython.org/github/zomux/notebooks/tree/master) 
-
- (not all of them are useful)
 
