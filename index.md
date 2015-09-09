@@ -4,10 +4,11 @@ Interests
 - Natural Language Processing
 	- Natural Language Understanding
 	- Statistical Machine Translation
+	- Question Answering
+	- Conversation Modelling
 - Machine Learning
 	- Reinforcement Learning
 	- Representation Learning
-	- Variational Inference
 	- Knowledge Extraction
 
 ------
