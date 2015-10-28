@@ -49,9 +49,9 @@ Papers
 ---
 - Evaluating Neural Machine Translation in English-Japanese Task
 	- [http://www.aclweb.org/anthology/W/W15/W15-5007.pdf](http://www.aclweb.org/anthology/W/W15/W15-5007.pdf)
-- WAT (Workshop on Asian Translation) 2014
-	- Second place in English-Japanese translation task
-	- Weblio Pre-reordering Statistical Machine Translation System
+	- [poster](http://www.aclweb.org/anthology/attachments/W/W15/W15-5007.Poster.pdf)
+- Weblio Pre-reordering Statistical Machine Translation System
+	- Second place in English-Japanese translation task of WAT (Workshop on Asian Translation) 2014
 		- [paper](/WAT2014/wat2014.paper.shu.pdf)
 		- [slides](/WAT2014/wat2014.slides.shu.pdf)
 		- [poster](/WAT2014/wat2014.poster.shu.pdf)
