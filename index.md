@@ -47,6 +47,8 @@ Softwares
 		
 Papers
 ---
+- Evaluating Neural Machine Translation in English-Japanese Task
+	- [http://www.aclweb.org/anthology/W/W15/W15-5007.pdf](http://www.aclweb.org/anthology/W/W15/W15-5007.pdf)
 - WAT (Workshop on Asian Translation) 2014
 	- Second place in English-Japanese translation task
 	- Weblio Pre-reordering Statistical Machine Translation System
