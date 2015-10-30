@@ -29,17 +29,13 @@ Softwares
 - deepy
  - Highly extensible deep learning framework based on Theano
  - [https://github.com/uaca/deepy](https://github.com/uaca/deepy)
-- nlpy
- - yet another NLP toolkit on Python (especially, theano)
- - [http://nlpy.org](http://nlpy.org)
- - work in progress
-- pysmt
- - A statistical machine translation system on Python
- - [/pysmt.md](/pysmt.md)
- - work in progress
 - JRNNLM
  - RNNLM implementation in JAVA
  - [https://github.com/zomux/jrnnlm](https://github.com/zomux/jrnnlm)
+- nlpy
+ - yet another NLP toolkit on Python (especially, theano)
+ - [http://nlpy.org](http://nlpy.org)
+ - WORK IN PROGRESS
 
 ------
 
