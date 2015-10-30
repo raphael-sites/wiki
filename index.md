@@ -26,8 +26,8 @@ Cool stuffs
 
 Softwares
 ---
-- deepy
- - Highly extensible deep learning framework based on Theano ![many stars](http://githubbadges.com/star.svg?user=uaca&repo=deepy&background=007ecg&color=bbb&style=flat)
+- deepy ![many stars](http://githubbadges.com/star.svg?user=uaca&repo=deepy&background=007ecg&color=bbb&style=flat)
+ - Highly extensible deep learning framework based on Theano 
  - [https://github.com/uaca/deepy](https://github.com/uaca/deepy)
 - JRNNLM
  - RNNLM implementation in JAVA
