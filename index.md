@@ -20,7 +20,6 @@ Cool stuffs
 
 - [Visualization of optimization methods](/machine_learning/visualize_optimization.html)
 - [Visualization of Monte Carlo methods](/machine_learning/markov_chain_monte_carlo.html)
-- [Online CFG parse tree visualizer](http://demos.uaca.com/demos/parsetree)
 
 ------
 
