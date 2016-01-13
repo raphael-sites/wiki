@@ -3,7 +3,7 @@ Interests
 ---
 - Natural Language Processing
 	- Natural Language Understanding
-	- Statistical Machine Translation
+	- Machine Translation
 	- Question Answering
 	- Conversation Modelling
 - Machine Learning
@@ -28,19 +28,18 @@ Softwares
 - deepy ![many stars](http://githubbadges.com/star.svg?user=uaca&repo=deepy&background=007ecg&color=bbb&style=flat)
  - Highly extensible deep learning framework based on Theano 
  - [https://github.com/uaca/deepy](https://github.com/uaca/deepy)
+- NeuralMT
+ - Neural machine translation modelling tookit
+ - 
 - JRNNLM
  - RNNLM implementation in JAVA
  - [https://github.com/zomux/jrnnlm](https://github.com/zomux/jrnnlm)
-- nlpy
- - yet another NLP toolkit on Python (especially, theano)
- - [http://nlpy.org](http://nlpy.org)
- - WORK IN PROGRESS
 
 ------
 
 
 		
-Papers
+Publications
 ---
 - Evaluating Neural Machine Translation in English-Japanese Task
 	- [http://www.aclweb.org/anthology/W/W15/W15-5007.pdf](http://www.aclweb.org/anthology/W/W15/W15-5007.pdf)
@@ -76,7 +75,7 @@ Online Demonstrations
 
 
 
-Notes
+Notes on machine learning
 ---
 - Natural Langauge Processing
 	- [Roadmap of NLP](/notes/nlp_roadmap.md)
