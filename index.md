@@ -25,7 +25,7 @@ Cool stuffs
 
 Softwares
 ---
-- deepy ![many stars](http://githubbadges.com/star.svg?user=uaca&repo=deepy&background=007ecg&color=bbb&style=flat)
+- deepy ![many stars](http://githubbadges.com/star.svg?user=zomux&repo=deepy&background=007ecg&color=bbb&style=flat)
  - Highly extensible deep learning framework based on Theano 
  - [https://github.com/zomux/deepy](https://github.com/zomux/deepy)
 - NeuralMT
