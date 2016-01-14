@@ -18,8 +18,8 @@ Interests
 Cool stuffs
 ---
 
-- [Visualization of optimization methods](/machine_learning/visualize_optimization.html)
-- [Visualization of Monte Carlo methods](/machine_learning/markov_chain_monte_carlo.html)
+- [Visualization of optimization methods (Chrome-only)](/machine_learning/visualize_optimization.html)
+- [Visualization of Monte Carlo methods (Chrome-only)](/machine_learning/markov_chain_monte_carlo.html)
 
 ------
 
@@ -27,10 +27,10 @@ Softwares
 ---
 - deepy ![many stars](http://githubbadges.com/star.svg?user=uaca&repo=deepy&background=007ecg&color=bbb&style=flat)
  - Highly extensible deep learning framework based on Theano 
- - [https://github.com/uaca/deepy](https://github.com/uaca/deepy)
+ - [https://github.com/zomux/deepy](https://github.com/zomux/deepy)
 - NeuralMT
  - Neural machine translation modelling tookit
- - 
+ - [https://github.com/zomux/neuralmt](https://github.com/zomux/neuralmt)
 - JRNNLM
  - RNNLM implementation in JAVA
  - [https://github.com/zomux/jrnnlm](https://github.com/zomux/jrnnlm)
@@ -61,18 +61,18 @@ Publications
 
 
 
-Online Demonstrations
----
+<!--Online Demonstrations-->
+<!------->
 
-- Pre-reordering for English-Japanese machine translation
- - [http://demos.uaca.com/demos/raphreorder](http://demos.uaca.com/demos/raphreorder)
-- Head-restructured CFG parse tree
- - [http://demos.uaca.com/demos/hdtree](http://demos.uaca.com/demos/hdtree)
-- CFG - Dependency parse tree combiner
- - combine by moving the position of dependency heads
- - [http://demos.uaca.com/demos/combiner](http://demos.uaca.com/demos/combiner)
+<!--- Pre-reordering for English-Japanese machine translation-->
+<!-- - [http://demos.uaca.com/demos/raphreorder](http://demos.uaca.com/demos/raphreorder)-->
+<!--- Head-restructured CFG parse tree-->
+<!-- - [http://demos.uaca.com/demos/hdtree](http://demos.uaca.com/demos/hdtree)-->
+<!--- CFG - Dependency parse tree combiner-->
+<!-- - combine by moving the position of dependency heads-->
+<!-- - [http://demos.uaca.com/demos/combiner](http://demos.uaca.com/demos/combiner)-->
 
-------
+<!---------->
 
 
 
