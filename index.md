@@ -23,7 +23,7 @@ Cool stuffs
 
 ------
 
-Softwares
+Codes
 ---
 - deepy ![many stars](http://githubbadges.com/star.svg?user=zomux&repo=deepy&background=007ecg&color=bbb&style=flat)
  - Highly extensible deep learning framework based on Theano 
@@ -80,7 +80,7 @@ Publications
 
 
 
-Notes on machine learning
+Some notes on machine learning
 ---
 
 - [Roadmap of NLP](/notes/nlp_roadmap.md)
