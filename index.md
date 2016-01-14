@@ -2,7 +2,7 @@
 Interests
 ---
 - Natural Language Processing
-        - Natural Language Understanding
+	- Natural Language Understanding
 	- Machine Translation
 	- Question Answering
 	- Conversation Modelling
@@ -42,7 +42,7 @@ Softwares
 Publications
 ---
 - Evaluating Neural Machine Translation in English-Japanese Task
-        - Second place in human evaluation, third place in JPO accuracy test
+	- Second place in human evaluation, third place in JPO accuracy test
 	        - [http://www.aclweb.org/anthology/W/W15/W15-5007.pdf](http://www.aclweb.org/anthology/W/W15/W15-5007.pdf)
 	        - [poster](http://www.aclweb.org/anthology/attachments/W/W15/W15-5007.Poster.pdf)
 - Weblio Pre-reordering Statistical Machine Translation System
