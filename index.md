@@ -33,8 +33,8 @@ Softwares
  - [https://github.com/zomux/neuralmt](https://github.com/zomux/neuralmt)
 - deepy-draw
  - An implementation of DRAW with deepy framework
- - [https://github.com/zomux/deepy-draw/](https://github.com/zomux/deepy-draw/)
  - ![](https://github.com/zomux/deepy-draw/raw/master/plots/mnist-animation.gif)
+ - [https://github.com/zomux/deepy-draw/](https://github.com/zomux/deepy-draw/)
 - JRNNLM
  - RNNLM implementation in JAVA
  - [https://github.com/zomux/jrnnlm](https://github.com/zomux/jrnnlm)
