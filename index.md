@@ -2,7 +2,7 @@
 Notice
 ---
 
-This site is now moving to https://nlper.com 
+This site is now moving to [https://nlper.com ](https://nlper.com)
 
 Interests
 ---
