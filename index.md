@@ -1,4 +1,9 @@
 
+Notice
+---
+
+This site is now moving to https://nlper.com 
+
 Interests
 ---
 - Natural Language Processing
