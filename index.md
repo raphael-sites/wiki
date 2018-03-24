@@ -30,7 +30,7 @@ Cool stuffs
 
 Codes
 ---
-- deepy ![many stars](http://githubbadges.com/star.svg?user=zomux&repo=deepy&background=007ecg&color=bbb&style=flat)
+- deepy [GitHub stars](https://img.shields.io/github/stars/zomux/deepy.svg)]
  - Highly extensible deep learning framework based on Theano 
  - [https://github.com/zomux/deepy](https://github.com/zomux/deepy)
 - neuralmt
